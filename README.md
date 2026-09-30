@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I'm Rabiya Thul Aabitha
 
-<!--
-**rabiyathulaabitha0/rabiyathulaabitha0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst with hands-on experience in SQL, Python,
+Power BI and Excel.
 
-Here are some ideas to get you started:
+💼 6 Months Data Analyst Internship Experience at Qubinex
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 I work on:
+• Data Cleaning & Validation
+• SQL Analysis
+• Exploratory Data Analysis
+• Power BI Dashboards
+• KPI & Business Reporting
+• Customer Churn Analysis
+• Financial & Risk Analysis
+
+🛠️ Tech Stack
+SQL | Python | Pandas | NumPy | Power BI | DAX | Excel
+SQL Server | MySQL | Git | GitHub | Jupyter Notebook
+
+📌 Featured Projects
+
+💰 Financial Performance Intelligence
+10,000 records | 7 business units | 19 countries
+SQL + Python + Power BI
+
+👥 Customer Churn Analysis & Prediction
+6,418 customer records | 26.99% churn rate
+SQL + Python + Scikit-learn + Power BI
+
+🏥 Healthcare Readmission Risk & Cost Analysis
+9,216 patient records | 8+ KPIs
+SQL + Excel + Power BI
+
+🎓 BSc Computer Science
+CGPA: 8.53/10
+
+📫 Open to Data Analyst opportunities
